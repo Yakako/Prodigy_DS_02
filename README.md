@@ -48,19 +48,22 @@ Embarked encoded using One-Hot Encoding
 - Cabin
 
 # 📊 Exploratory Data Analysis (EDA)
-🔹 1. Survival Distribution
+1. Survival Distribution
 Majority of passengers did not survive.
-🔹 2. Survival by Gender
+2. Survival by Gender
 Females had a significantly higher survival rate than males.
-🔹 3. Survival by Passenger Class
+
+3. Survival by Passenger Class
 1st Class → Highest survival rate
 3rd Class → Lowest survival rate
-🔹 4. Age Distribution
+
+4. Age Distribution
 Most passengers were between 20–40 years old.
-🔹 5. Fare vs Survival
+
+5. Fare vs Survival
 Passengers who paid higher fares had better survival chances.
 
-# 🔥 Correlation Analysis
+# 🔥 orrelation Analysis
 Quantitative Variables
 A correlation heatmap was generated using numeric variables.
 ---
