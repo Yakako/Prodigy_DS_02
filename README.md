@@ -63,7 +63,7 @@ Most passengers were between 20–40 years old.
 5. Fare vs Survival
 Passengers who paid higher fares had better survival chances.
 
-# 🔥 orrelation Analysis
+# 🔥 Correlation Analysis
 Quantitative Variables
 A correlation heatmap was generated using numeric variables.
 ---
